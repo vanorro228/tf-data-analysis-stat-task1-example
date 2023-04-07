@@ -8,6 +8,6 @@ def solution(x: np.array) -> float:
     t = 48
     n = len(x)
     error_v = np.random.normal(0, 1, n) # ошибки
-    a = error_v/t 
-    a = (np.mean(x)*2)/t*t
+    a = 
+    a = (np.mean(error_v)*2)/t*t
     return a #
